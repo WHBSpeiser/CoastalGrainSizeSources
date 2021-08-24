@@ -14,6 +14,10 @@ Documents and codes to inventory, describe, and access coastal sediments informa
 * 
 
 ## Tier II (10-100 samples)
+* https://www.sciencebase.gov/catalog/item/5c926dcde4b0938824573d64
+* https://pubs.usgs.gov/ds/0894/downloads/metadata/13BIM05_grainsize_summary-statistics-met.html
+* https://catalog.data.gov/dataset/grainsize-and-mineralogy-data-of-sediments-samples-collected-at-crocker-reef-florida-2013-2014
+* https://dataverse.tdl.org/dataset.xhtml;jsessionid=1dd88ebc542ebe785f57f8f4687a?persistentId=doi%3A10.18738%2FT8%2FHCBGM6&version=&q=&fileTypeGroupFacet=%22Unknown%22&fileAccess=&fileSortField=size
 
 ## Tier III (100+ samples)
 
