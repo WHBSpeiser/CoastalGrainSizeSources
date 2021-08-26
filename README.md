@@ -21,6 +21,14 @@ Documents and codes to inventory, describe, and access coastal sediments informa
 * https://catalog.data.gov/bg/dataset/sediment-grain-size-data-from-sediment-cores-collected-from-march-2012-to-july-2013-along-the-n
 * https://catalog.data.gov/bg/dataset/sediment-data-for-samples-collected-in-2015-2016-and-2017-from-coastal-louisiana
 * https://catalog.data.gov/bg/dataset/sedimentary-data-collected-in-april-2013-from-dauphin-island-and-salt-marshes-of-coastal-alabam
+* https://catalog.data.gov/ca/dataset/fire-island-national-seashore-sediment-grain-size-and-cmecs-classification-data
+* https://data.gulfresearchinitiative.org/data/R4.x260.000:0069
+* https://data.gulfresearchinitiative.org/data/R4.x260.000:0068
+* https://www.bco-dmo.org/dataset/825252
+* https://catalog.data.gov/lt/dataset/blm-ocs-south-texas-outer-continental-shelf-stocs-project-sediment-data
+* https://data.gulfresearchinitiative.org/data/R4.x260.000:0012
+* https://data.usgs.gov/datacatalog/data/USGS:b88c2677-db71-4146-bd00-ddde44c98e4b
+* https://www.fisheries.noaa.gov/inport/item/38960
 
 ### Tier III (1-10 samples)
 * literature searches
