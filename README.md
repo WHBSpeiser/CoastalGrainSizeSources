@@ -8,7 +8,7 @@ Documents and codes to inventory, describe, and access coastal sediments informa
 * https://meridian.allenpress.com/jcr/article-abstract/35/5/1080/428069/The-Relationship-between-Beach-Grain-Size-and?redirectedFrom=fulltext #requested
 * https://scholarworks.umass.edu/data/115/
 * https://cims.coastal.louisiana.gov/outreach/Projects/Bicm
-* https://www.boem.gov/sites/default/files/mm-research/2021-05/GA-Georgia-Cooperative-Agreement-Final-Summary-Report-2016-Final-opt.pdf #requested
+* https://mmis.doi.gov/BOEMMMIS/
 * https://www.arcgis.com/apps/MapSeries/index.html?appid=65cca038794d4ded8daaec8e6fb1a3ae
 * https://portal.midatlanticocean.org/static/data_manager/metadata/html/sediment_grain_size.html 
 * 
