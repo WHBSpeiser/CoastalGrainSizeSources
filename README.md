@@ -47,7 +47,7 @@ Documents and codes to inventory, describe, and access coastal sediments informa
 * https://catalog.data.gov/bg/dataset/sediment-grain-size-data-from-sand-augers-collected-in-march-april-and-october-2014-from-assate
 * https://catalog.data.gov/bg/dataset/sediment-grain-size-data-from-sediment-grab-samples-and-box-cores-collected-in-may-2014-from-ba
 * https://catalog.data.gov/bg/dataset/sediment-data-from-cobscook-bay-maine-larsen03-shapefile
-* ?
+* https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5141/1/146.pdf
 
 ## SECONDARY (sediment type)
 
